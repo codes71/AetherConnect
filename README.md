@@ -1,6 +1,3 @@
-Of course\! Here is a rewritten version of the project description, tailored for a student showcase. It maintains the technical depth but reframes it to be more approachable, educational, and focused on building a standout portfolio piece.
-
------
 
 # Project Showcase: Real-Time Microservices Chat Application
 
